@@ -1,0 +1,12 @@
+{
+  "name": "web_gl_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benwanghsien/webgl_practice.git",
+  "author": "Tgo Wang <ben2021345@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "prettier": "^2.8.1"
+  }
+}
